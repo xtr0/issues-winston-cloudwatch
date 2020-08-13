@@ -1,4 +1,4 @@
-Output of `!!! interval` was added here
+Output of `!! interval` was added here
 
 ```javascript
     debug('creating interval');
